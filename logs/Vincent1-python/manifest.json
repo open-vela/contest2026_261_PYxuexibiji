@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_261_PYxuexibiji",
+  "github_login": "Vincent1-python",
+  "generator": "claude-code-collector@1.2.0",
+  "updated_at": "2026-07-31T04:17:41.199Z",
+  "sessions": [
+    {
+      "session_id": "a5b86483-aa59-4470-a927-8110a3bee3a4",
+      "tool": "claude-code",
+      "started_at": "2026-07-31T04:12:57.614Z",
+      "last_event_at": "2026-07-31T04:12:57.614Z",
+      "event_count": 1,
+      "raw_event_count": 7,
+      "file_path": "logs/Vincent1-python/2026-07-31/claude-code__a5b86483-aa59-4470-a927-8110a3bee3a4.jsonl",
+      "collection_mode": "cli",
+      "health": "ok"
+    },
+    {
+      "session_id": "53033684-ffed-4c0e-90e4-1d47053098ad",
+      "tool": "claude-code",
+      "started_at": "2026-07-31T04:17:41.199Z",
+      "last_event_at": "2026-07-31T04:17:41.199Z",
+      "event_count": 503,
+      "raw_event_count": 638,
+      "file_path": "logs/Vincent1-python/2026-07-31/claude-code__53033684-ffed-4c0e-90e4-1d47053098ad.jsonl",
+      "collection_mode": "cli",
+      "health": "ok",
+      "model": "<synthetic>"
+    }
+  ]
+}
