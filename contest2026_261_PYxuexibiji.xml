@@ -12,5 +12,7 @@
     <linkfile src="app/hello_app" dest="packages/demos/contest2026_261_hello_app"/>
     <linkfile src="quickapp/hello_quickapp" dest="packages/apps/contest2026_261_hello_quickapp"/>
     <linkfile src="board/contest_board" dest="vendor/openvela/boards/contest2026_261_board"/>
+    <linkfile src="board/esp32p4/esp32p4-function-ev-board" dest="vendor/openvela/boards/esp32p4_function_ev_board"/>
+    <linkfile src="nuttx" dest="nuttx"/>
   </project>
 </manifest>
